@@ -8,5 +8,5 @@
 
 ## Promises
  - pending 대기중
- - fullfilled 거부
- - rejected 예외?
+ - fulfilled 성공
+ - rejected 거부

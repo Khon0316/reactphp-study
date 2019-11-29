@@ -10,3 +10,5 @@
  - pending 대기중
  - fulfilled 성공
  - rejected 거부
+
+## Socket

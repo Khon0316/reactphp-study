@@ -5,3 +5,8 @@
     - Readable (STDIN)
     - Writable (STDOUT)
     - Duplex (TCP Scoket)
+
+## Promises
+ - pending 대기중
+ - fullfilled 거부
+ - rejected 예외?

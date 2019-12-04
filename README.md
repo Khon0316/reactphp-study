@@ -20,3 +20,5 @@
     - Page = 2
  - myblog.com/posts?tag=php&tag=2
     - Tag = PHP, Page = 2
+
+## POST Request

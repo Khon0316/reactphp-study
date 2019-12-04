@@ -14,3 +14,9 @@
 ## Socket
 
 ## http server
+
+## query string
+ - myblog.com/posts?page=2
+    - Page = 2
+ - myblog.com/posts?tag=php&tag=2
+    - Tag = PHP, Page = 2

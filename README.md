@@ -22,3 +22,6 @@
     - Tag = PHP, Page = 2
 
 ## POST Request
+
+## Middleware
+ - Request -> Middleware -> Response

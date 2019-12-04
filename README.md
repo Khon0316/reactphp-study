@@ -12,3 +12,5 @@
  - rejected 거부
 
 ## Socket
+
+## http server
